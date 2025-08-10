@@ -21,7 +21,7 @@ I am passionate about Digital Forensics and Incident Response (DFIR), and have 3
 # Certifications
 - Microsoft Security, Compliance, and Identity Fundamentals – Mar 2025
 - Python Certification (Certiport) – Feb 2025
-- Web Design Course – Broadway Infosys – Jun 2021
+- Web Design Course – Broadway Infosys – Web Developmet_Sunita Tamang.pdf
 
 
 ## 🎓 Education
