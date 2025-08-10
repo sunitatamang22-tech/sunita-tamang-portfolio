@@ -19,7 +19,7 @@ I am passionate about Digital Forensics and Incident Response (DFIR), and have 3
  - Outcome: Provided a functional personal finance management solution.
 
 # Certifications
-- Microsoft Security, Compliance, and Identity Fundamentals – Mar 2025
+- Microsoft Security, Compliance, and Identity Fundamentals – Microsoft Certified_Sunita Tamang.pdf
 - Python Certification (Certiport) – Feb 2025
 - Web Design Course – Broadway Infosys – Web Developmet_Sunita Tamang.pdf
 
