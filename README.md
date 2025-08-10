@@ -18,6 +18,13 @@ I am passionate about Digital Forensics and Incident Response (DFIR), and have 3
 -Tools & Tech: Python, Tkinter, SQLite.
  - Outcome: Provided a functional personal finance management solution.
 
+3. Digital Portfolio 
+- Description:Created an online portfolio showcasing my cybersecurity projects, certifications, and achievements as part of an academic requirement.
+- Tools & Tech: GitHub
+- Outcome: A publicly accessible portfolio to present my skills, experience, and projects to potential employers and academic assessors.
+- Link: https://www.sunitatamang.site/
+
+
 # Certifications
 - Microsoft Security, Compliance, and Identity Fundamentals – Microsoft Certified_Sunita Tamang.pdf
 - Python Certification (Certiport) – IT Specialist - Python_Sunita Tamang.pdf
