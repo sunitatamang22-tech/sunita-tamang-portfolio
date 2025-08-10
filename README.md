@@ -13,7 +13,7 @@ I am passionate about Digital Forensics and Incident Response (DFIR), and have 3
 - Outcome:Enhanced login security and reduced unauthorized access risk.
 
 
-2. Python Expense Tracker (Personal Project)
+2. Python Expense Tracker (Personal Project) ExpTracker 2/Getting Started- ExpTracker.pdf
 - Description: Developed a GUI-based expense tracking system to record, analyze, and visualize personal spending.
 -Tools & Tech: Python, Tkinter, SQLite.
  - Outcome: Provided a functional personal finance management solution.
