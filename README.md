@@ -24,7 +24,7 @@ I am passionate about Digital Forensics and Incident Response (DFIR), and have 3
 - Web Design Course – Broadway Infosys – Web Developmet_Sunita Tamang.pdf
 - Internship -
 - Experience certificate Oxford Acadamia -
-- Experience certificate Legalfit -
+- Experience certificate Legalfit - Certificate of Experience - Sunita Tamang.pdf
 
 
 ## 🎓 Education
